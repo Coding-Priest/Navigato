@@ -1,2 +1,2 @@
-# Navigation of a robot using Reinforcement learning inside MuJoCo simulation
+# Navigation of a robot using Reinforcement learning
 pronounced as Nah-vi-ga-toh
