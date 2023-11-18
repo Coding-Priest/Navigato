@@ -4,5 +4,5 @@ Welcome to our custom integration of OpenAI Gym and Gazebo environment! This mod
 
 ## Features
 - Complete integration of OpenAI Gym and Gazebo environment
-- Support for higher-level RL libraries for robot navigation tasks
+- Support for higher-level RL libraries for robot navigation tasks (Such as PTAN, Tensorflow-RL)
 - Customizable Gazebo-X-Gym code for easy adaptation to your specific needs
