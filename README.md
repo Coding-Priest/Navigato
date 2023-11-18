@@ -1,5 +1,8 @@
-# Reinforcement learning for Robot navigation
-Provided complete integration of OpenAI gym and Gazebo environment
-With this module, you will be able to implement gym functions on a custom gazebo environment
-Added support for higher level RL libraries
-Easy customisation of Gazebo-X-Gym code
+# Reinforcement Learning for Robot Navigation
+
+Welcome to our custom integration of OpenAI Gym and Gazebo environment! This module allows seamless implementation of gym functions on a custom Gazebo environment, enabling you to train reinforcement learning agents for robot navigation tasks.
+
+## Features
+- Complete integration of OpenAI Gym and Gazebo environment
+- Support for higher-level RL libraries for robot navigation tasks
+- Customizable Gazebo-X-Gym code for easy adaptation to your specific needs
